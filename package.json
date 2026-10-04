@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "build": "node tools/build-site.mjs",
-    "encrypt": "node tools/encrypt-vault.mjs"
+    "encrypt": "node tools/encrypt-vault.mjs",
+    "verify": "node tools/verify-vault.mjs"
   },
   "dependencies": { "qrcode": "^1.5.4" }
 }
