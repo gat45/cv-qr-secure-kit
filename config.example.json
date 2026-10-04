@@ -1,0 +1,10 @@
+{
+  "name": "Prénom NOM",
+  "title": "Technicien informatique",
+  "subtitle": "Support · Diagnostic · Systèmes · Formation",
+  "email": "prenom.nom@example.com",
+  "location": "Ville / Département",
+  "cvUrl": "https://docs.google.com/document/d/VOTRE_DOCUMENT/edit?usp=sharing",
+  "qrTarget": "https://votre-compte.github.io/votre-site/",
+  "github": ["https://github.com/votre-compte"]
+}

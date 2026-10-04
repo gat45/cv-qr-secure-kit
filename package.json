@@ -1,0 +1,10 @@
+{
+  "name": "cv-secure-kit",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build-site.mjs",
+    "encrypt": "node tools/encrypt-vault.mjs"
+  },
+  "dependencies": { "qrcode": "^1.5.4" }
+}
